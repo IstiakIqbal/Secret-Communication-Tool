@@ -13,7 +13,7 @@ This project is an old project I created while learning Python. It's a simple en
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/SecretCommunicationTool.git
+   git clone https://github.com/IstiakIqbal/Secret-Communication-Tool.git
 Install dependencies (Tkinter comes pre-installed with Python, so no extra dependencies are needed).
 
 Run the program:
