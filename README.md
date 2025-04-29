@@ -40,5 +40,8 @@ Key: "secretkey"
 
 Encrypted Message: SGVsbG8sIFdvcmxkIQ== (Base64 encoded)
 
+Screenshot
+![Encryption Tool Screenshot](https://github.com/IstiakIqbal/Secret-Communication-Tool/blob/main/Secret%20communication.png?raw=true)
+
 Contribution
 This project is a personal learning project, but feel free to fork it and contribute to improvements or enhancements. Any pull requests or feedback are welcome.
