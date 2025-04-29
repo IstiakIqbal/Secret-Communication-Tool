@@ -42,22 +42,3 @@ Encrypted Message: SGVsbG8sIFdvcmxkIQ== (Base64 encoded)
 
 Contribution
 This project is a personal learning project, but feel free to fork it and contribute to improvements or enhancements. Any pull requests or feedback are welcome.
-
-License
-This project is licensed under the MIT License.
-
-markdown
-Copy
-Edit
-
-3. **Save the README.md File:**
-   - After pasting the content, save the file.
-
-4. **Push to GitHub:**
-   - If you haven't already pushed the project to GitHub, open your terminal/command prompt and run these commands from your project directory:
-
-```bash
-git add README.md
-git commit -m "Added README.md with project details"
-git push origin master
-If the repository already exists on GitHub, the README.md file will be updated with the new content.
